@@ -19,3 +19,4 @@ I went with the blackout because I just think it's funny that ADA designed the h
 
 There will be much more information on this in a youtube video (link to follow).
 
+The hypertube travel detection and some other functions are used under GPL 3.0, taken from SirDigby's Flashlight Settings mod, found here:  https://github.com/mklierman/SatisfactoryMods
